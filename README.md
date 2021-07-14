@@ -1,4 +1,4 @@
-### Hi I'm Łukasz Kalita 👋
+### Hi, I'm Łukasz Kalita 👋
 
 - 🔭 I’m currently working on "100 Days of Code - The Complete Python Pro Bootcamp for 2021"
 - 🌱 I’m currently learning Python
